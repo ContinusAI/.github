@@ -1,8 +1,8 @@
 # 🌌 Nightlight
 
-**「越过长夜，点亮万念。」**
+**「始于浪漫，终于逻辑」**
 
-**「Lighting minds beyond the night. 」**
+**「From Romance to Reason」**
 
 
-Copyright © 2026 Nightlight AI Team.
+*Copyright © 2026 Nightlight AI Team.*
